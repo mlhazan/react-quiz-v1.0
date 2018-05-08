@@ -1,0 +1,7 @@
+.label{
+	margin-right:10px;
+}
+a:hover, a:visited, a:link, a:active
+{	color: white;
+    text-decoration: none;
+}
