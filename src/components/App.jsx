@@ -15,72 +15,72 @@ class App extends Component{
                     choices: [
                         {
                             id: 'a',
-                            text:'Michael'
+                            text:'Hasan'
                         },
                         {
                             id: 'b',
-                            text:'Brad'
+                            text:'Brandon'
                         },
                         {
                             id: 'c',
-                            text:'Steven'
+                            text:'Robert'
+                        }
+                    ],
+                    correct: 'a'
+                },
+                {
+                    id: 2,
+                    text:'What was your first pet?',
+                    choices: [
+                        {
+                            id: 'a',
+                            text:'Dog'
+                        },
+                        {
+                            id: 'b',
+                            text:'Cat'
+                        },
+                        {
+                            id: 'c',
+                            text:'Donkey'
                         }
                     ],
                     correct: 'b'
                 },
                 {
-                    id: 2,
-                    text:'What is your mothers name?',
-                    choices: [
-                        {
-                            id: 'a',
-                            text:'Sara'
-                        },
-                        {
-                            id: 'b',
-                            text:'Sue'
-                        },
-                        {
-                            id: 'c',
-                            text:'Donna'
-                        }
-                    ],
-                    correct: 'c'
-                },
-                {
                     id: 3,
-                    text:'What is your fathers name?',
+                    text:'What do you like to eat?',
                     choices: [
                         {
                             id: 'a',
-                            text:'Bobby'
+                            text:'Beef'
                         },
                         {
                             id: 'b',
-                            text:'Harry'
+                            text:'Chicken'
                         },
                         {
                             id: 'c',
-                            text:'Wayne'
+                            text:'Goat'
                         }
                     ],
-                    correct: 'c'
+                    correct: 'b'
                 },
                 {
                     id: 4,
-                    text:'What is your friends name?',
+                    text:'Which country is the best in the world?',
                     choices: [
                         {
                             id: 'a',
-                            text:'John'
+                            text:'Canada'
                         },
                         {
                             id: 'b',
-                            text:'Paul'
+                            text:'England'
                         },
                         {
                             id: 'c',
-                            text:'Jose'
+                            text:'Australia'
                         }
                     ],
                     correct: 'a'
